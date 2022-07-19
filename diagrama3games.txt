@@ -3,5 +3,7 @@
 de acuerdo a la asignacion que se le atribuye.
 
 //en contra
+La relacion Game -> Games es redundante, ya que en la entidad "Game" ya aparecen reflejadas
+las especializaciones que se le asignarian
 
 //mejoras
