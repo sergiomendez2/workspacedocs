@@ -10,6 +10,6 @@ queriendo realizar. el diagrama cuenta con 19 figuras.
 
 <<<<<<< HEAD
 
-//de mejoras
+//mejoras
 segun las buenas practicas de flujos de procesos, dado que todo programa es un conjunto de instrucciones para lograr un resultado especifico, se dice que lo optimo es de 12-15 figuras MAXIMO, pero que por dicha "buena practica" podemos concluir que este diagrama o proceso no esta en su optimo estado por lo que se seria de muy buena practica dividir todo el proceso en dos para que de esta forma el proceso este "opimizado" 
 >>>>>>> 1d526a08ce0de6b0ad8bc82fe6acd424d41f8513
