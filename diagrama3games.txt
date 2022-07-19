@@ -1,3 +1,7 @@
 //a favor
+*el diagrama esta bastante bien, cada una de las figuras cumple su rol
+de acuerdo a la asignacion que se le atribuye.
+
 //en contra
+
 //mejoras
