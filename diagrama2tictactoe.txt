@@ -1,4 +1,5 @@
 //a favor
+en el diagrama podemos contemplar que la idea de la solucion ah sido implementada lo mejor posible para su eficaz resultado
 
 //en contra
 
