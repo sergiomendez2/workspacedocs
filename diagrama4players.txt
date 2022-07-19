@@ -1,3 +1,5 @@
 //a favor
 //en contra
+los metodos de estadisticas son utilizados pero no tiene indicio de como son actualizados
+
 //mejoras
