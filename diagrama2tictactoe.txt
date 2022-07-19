@@ -2,6 +2,8 @@
 en el diagrama podemos contemplar que la idea de la solucion ah sido implementada lo mejor posible para su eficaz resultado
 
 //en contra
+- Quedaria pendiente la relacion put con el jugador
+- Pendiente de especificar cuales serian los roles que podria tener el jugador
 
 //mejoras
 que el selectPlayers seria una composition de el TicTacToe
