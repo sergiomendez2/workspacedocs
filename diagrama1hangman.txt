@@ -1,4 +1,6 @@
-//titulo a favor
+//A favor
+El diagrama nos muestra una vision general de lo que el programa hara cuando sea implementado, 
+las relaciones utilizadas concuerdan con los elementos que cada uno de los mismos necesitara para cumplir su funcion.
 
 //titulo en contra
 
