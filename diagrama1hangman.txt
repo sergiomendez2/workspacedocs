@@ -1,5 +1,11 @@
-//titulo a favor
+//a favor
 
-//titulo en contra
+//en contra
+*Como buenas practicas de diagrama de disenios es recomedable
+que las figuras sean menores de 12 a 15 ya que se busca
+optimizar el tiempo de desarrollo y asi tener una mejor
+eficiencia al momento de compartirlo con el grupo de
+desarrollo y asi tener un mejor analisis de lo que se esta
+queriendo realizar. el diagrama cuenta con 19 figuras.
 
-//titulo de mejoras
+//mejoras
