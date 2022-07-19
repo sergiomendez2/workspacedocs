@@ -1,3 +1,45 @@
 @startuml
-'something here will represent the diagram
+package hangmanGame{
+Class Turn{
+-HangmanPlayer : Player
+-startedPlayer : boolean
+-guessedWord: boolean
+-secretWord
+-guessingAttempts
+-remindingAttempts
+-giveHint: boolean
++selectPlayer()
++CreateSecretWord()
++GuessSecretWord()
++nextPlayer()
+-isGameOver: boolean
++ShowStatistics()
++isHangedMan Boolean
++getWinner()
++getHyphenatedWord()
+}
+Class HangedMan{
++ play()
+}
+
+package "players"{
+abstract Class Player{
+-name
+-scoreWinner
+-scoreLoser
++playerTurn()
+
+}
+Class HangmanPlayer
+
+}
+package "Utils"{
+Class Util{
++getRollDiceHigherNumber()
++getRandomNumber()
++assignRol()
+
+}
+
+}
 @enduml
