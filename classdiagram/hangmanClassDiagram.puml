@@ -38,7 +38,6 @@ Class Util{
 +getRollDiceHigherNumber()
 +getRandomNumber()
 +assignRol()
-
 }
 
 }
